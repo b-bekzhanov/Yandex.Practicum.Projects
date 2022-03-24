@@ -22,4 +22,4 @@
 
 ## Используемые библиотеки
 
-*pandas* *pymystem3*
+*`pandas`* *`pymystem3`*
